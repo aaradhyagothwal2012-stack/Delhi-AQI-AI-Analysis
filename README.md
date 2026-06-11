@@ -1,34 +1,46 @@
 # 🌫️ Delhi AQI AI Analysis
 
 ## 📌 Overview
-This project analyzes Air Quality Index (AQI) data for Delhi using Python and data analysis techniques. It explores pollution trends, identifies patterns in air quality, and provides insights using visualizations and basic data science methods.
-
----
+This project analyzes Delhi Air Quality Index (AQI) data using Python. It explores pollution trends, seasonal variations, and visual insights using data science techniques.
 
 ## 🎯 Objectives
-- Analyze historical AQI data of Delhi  
-- Identify pollution trends over time  
-- Visualize air quality changes  
-- Extract meaningful insights from raw data  
+- Analyze AQI trends in Delhi  
+- Study seasonal pollution patterns  
+- Visualize air quality data  
+- Extract useful environmental insights  
 
----
-
-## 🛠️ Technologies Used
-- Python 🐍  
-- Pandas (Data analysis)  
+## 🛠️ Tools Used
+- Python  
+- Pandas  
 - NumPy  
-- Matplotlib / Seaborn (Visualization)  
-- CSV dataset  
+- Matplotlib  
+- Seaborn  
 
----
+## 📁 Project Files
+- data.csv → Dataset  
+- analysis.py → Main analysis script  
+- visualization.py → Graph plotting  
+- notes.txt → Additional notes  
+- README.md → Documentation  
 
-## 📊 Features
-- Data cleaning and preprocessing  
-- AQI trend analysis over time  
-- Seasonal pollution comparison  
-- Graphical visualizations of air quality  
-- Basic insights into pollution causes and patterns  
+## 🚀 How to Run
+1. Clone repo  
+git clone https://github.com/your-username/Delhi-AQI-AI-Analysis.git  
 
----
+2. Enter folder  
+cd Delhi-AQI-AI-Analysis  
 
-## 📁 Project Structure
+3. Install libraries  
+pip install pandas numpy matplotlib seaborn  
+
+4. Run project  
+python analysis.py  
+
+## 📊 Insights
+- AQI varies strongly with seasons  
+- Winter has highest pollution levels  
+- PM2.5 is a major contributor  
+
+## 👤 Author
+Aaradhya | Grade 9 | Data Science Passion Project
+
